@@ -41,7 +41,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(process.env.NODE_ENV === 'production' ? '/stationery/' : '/'),
+  history: createWebHistory(process.env.NODE_ENV === 'production' ? '/vcbshop/' : '/'),
   routes
 });
 
