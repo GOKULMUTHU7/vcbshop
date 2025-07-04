@@ -2,7 +2,7 @@
   "name": "stationary-web-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gokulmuthu7.github.io/vcbshop",
+  "homepage": "https://gokulmuthu7.github.io/vcbshop/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
